@@ -1,9 +1,11 @@
 .info {
   @include flex-direction-column;
+
   gap: 24px;
 
   &__part {
     @include flex-direction-column;
+    
     gap: 8px;
   }
 

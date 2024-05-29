@@ -21,9 +21,10 @@
   }
 
   &--phone {
+    @include flex-align-center;
+
     background-image: url(../images/icons/icon-phone.png);
     position: relative;
-    @include flex-align-center;
     justify-content: flex-end;
 
     @include onTablet {
@@ -34,7 +35,6 @@
         width: max-content;
         content: "+1 234 5555-55-55";
         color: $whiteAccent;
-
         opacity: 0;
         transition: opacity 0.4s;
       }

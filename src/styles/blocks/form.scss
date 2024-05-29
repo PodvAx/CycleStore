@@ -6,17 +6,19 @@
   &__text {
     @include flex-align-center;
     @include input-styles;
+
     height: 48px;
-    font-family: "Poppins", sans-serif;
+    font-family: Poppins, sans-serif;
   }
 
   &__textarea {
     @include input-styles;
+    
     display: flex;
     gap: 10px;
     height: 120px;
     resize: none;
-    font-family: "Poppins", sans-serif;
+    font-family: Poppins, sans-serif;
     border-radius: 16px;
   }
 

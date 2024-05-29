@@ -1,5 +1,6 @@
 .button {
   @include flex-align-center;
+  
   justify-content: center;
   flex-direction: column;
   text-decoration: none;

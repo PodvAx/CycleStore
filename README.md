@@ -2,7 +2,7 @@
 
 [DEMO LINK](https://PodvAx.github.io/MyBike_landing/)
 
-This project is a responsive landing page created based on the [MyBike landing design](https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0-1&t=QchCPQBPEcCIEJJ2-0). It uses HTML, SCSS, and BEM methodology to create structured and easily maintainable code. The layout is fully responsive and optimized for different screen widths.
+This project is a responsive landing page created based on the [MyBike landing design](https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version). It uses HTML, SCSS, and BEM methodology to create structured and easily maintainable code. The layout is fully responsive and optimized for different screen widths.
 
 ## Technologies
 
