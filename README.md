@@ -15,6 +15,8 @@ This project is a responsive landing page created based on the [MyBike landing d
 
 To install the project, follow these steps:
 
+- Clone the repo
+
 ```bash
 npm install
 npm start
